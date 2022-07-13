@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #fff;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 0px;
+    padding: 20px 5%;
+    color: #ff023e;
+    font-size: 30px;
+}
+
+nav {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 30px 8%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin-left: 200px;
+    gap: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    a {
+        text-decoration: none;
+        color: rgb(34, 34, 34);
+    }
+    .fra {
+        margin-left: 200px;
+    }
+}
+
+img {
+    margin-left: 675px;
+    width: 620px;
+}
+
+p {
+    padding-top: 220px;
+    font-family: sans-serif;
+    margin-left: 100px;
+    color: rgb(34, 34, 34);
+}
+
+h1 {
+    color: rgb(34, 34, 34);
+    font-size: 55px;
+    padding-left: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jems {
+    color: #ff023e;
+}
+
+.p {
+    padding: 0px 0%;
+}
+
+button {
+    margin-top: 70px;
+    width: 190px;
+    background: #ff023e;
+    letter-spacing: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+    margin-left: 100px;
+    border: 0px solid;
+    color: white;
+}
+
+.about {
+    width: 70%;
+    padding: 100px 0px;
+}
+
+.main .img_ {
+    height: auto;
+    width: 430px;
+    margin-left: 10px;
+}
+
+.about-text {
+    margin-left: 80px;
+    margin-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+.main {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 40px;
+}
+
+h4 {
+    font-weight: 300;
+}
+
+.extra {
+    color: rgb(34, 34, 34);
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.img_jems {
+    width: 150px;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 50px;
+    object-fit: cover;
+}
+
+.btn {
+    background: #ff023e;
+    color: white;
+}
+
+
+/* My Services CSS */
